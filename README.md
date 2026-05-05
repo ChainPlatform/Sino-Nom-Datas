@@ -82,9 +82,9 @@ Nếu bạn thấy dự án có ý nghĩa, bạn có thể:
 
 - 📚 Đóng góp dữ liệu  
 - 🧑‍💻 Đóng góp code  
-- 💸 Tặng tôi một tách cafe nhỏ
+- 💸 Tặng tôi một tách cafe nhỏ bằng cách quét mã QR dưới đây
 
-<p align="center">
+<p>
   <img src="./sample/qr.png" width="200" />
 </p>
 
