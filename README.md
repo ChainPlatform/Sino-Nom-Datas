@@ -1,15 +1,30 @@
 # Sino Nom Fonts - Font chữ phiên âm Hán Nôm
 
-Font chữ hiển thị **phiên âm Hán Việt / Hán Nôm** trực tiếp trên chữ Hán - Nôm, giúp người dùng **đọc hiểu chữ Hán Nôm mà không cần biết trước**.
+📚 Font chữ hiển thị **phiên âm Hán Việt / Hán Nôm** trực tiếp trên chữ Hán - Nôm, giúp người dùng **đọc hiểu chữ Hán Nôm mà không cần biết trước**.
 
 👉 Phù hợp cho:
 - Người học Hán Nôm
 - Người nghiên cứu lịch sử Việt Nam
 - Người muốn đọc văn bản cổ (Đại Việt sử ký, văn bia, sách cổ…)
 
+📚 Bộ Font Hán Nôm Chuẩn (Không Phiên Âm)
+Ngoài bộ font phiên âm Hán Việt, dự án còn cung cấp bộ font Hán Nôm chuẩn dành cho nghiên cứu, biên tập và xuất bản.
+
+📦 SinoNom.otc (Bộ sưu tập font Hán Nôm bao gồm SinoNom.otf, SinoNomExtA.otf)
+👉 Hỗ trợ:
+- CJK Unified Ideographs
+- Chữ Hán thông dụng
+- Chữ Nôm phổ biến
+- Ký hiệu Hán Nôm cơ bản
+- Dị thể cổ
+- Chữ Hán hiếm
+- Nhiều ký tự xuất hiện trong thư tịch cổ Việt Nam
+
+
 👉 Tải fonts:
 - [SinoNomPhonics.otf](./fonts/SinoNomPhonics.otf)  
 - [SinoNomPhonics-R1.otf](./fonts/SinoNomPhonics-R1.otf)  
+- [SinoNom.otc](./fonts/SinoNom.otc)  
 
 ---
 
